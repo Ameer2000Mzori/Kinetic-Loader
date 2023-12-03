@@ -18,7 +18,7 @@
 
 # 📖 About This Project <a name="about-project"></a>
 
-> Experience Scroll Animation, a captivating website meticulously crafted with HTML, SCSS, and TypeScript. Built using webpack and fortified with linters, this project ensures a seamless and error-free codebase. Immerse yourself in the live demo for a firsthand look at the captivating animations!
+> Kinetic Loader is a website created with HTML and SCSS. It's a small site dedicated solely to a custom-made loading animation. We've employed linters to overcome code errors and maintain clean code. Please check out the live demo.
 
 # Sample Of Website <a name="Sample-Of-Website"></a>
 
@@ -35,11 +35,7 @@
   <li><a href="https://en.wikipedia.org/wiki/HTML">Html</a></li>
   <li><a href="https://en.wikipedia.org/wiki/CSS">Css</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)">Scss</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a></li>
   <li><a href="https://stylelint.io/">Html/CSS Linters</a></li>
-  <li><a href="https://eslint.org/">eslinters/TsLinters</a></li>
-    <li><a href="https://webpack.js.org/">Web Pack</a></li>
   </ul>
 </details>
 
@@ -50,9 +46,7 @@
 - **[Responsive Website]**
 - **[Flex & Grid]**
 - **[SCSS ]**
-- **[TypeScript ]**
 - **[Linters ]**
-- **[Tslint ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
